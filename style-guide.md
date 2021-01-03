@@ -29,3 +29,10 @@ Dark gray: hsl(0, 0%, 59%)
 
 - Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
 - Weights: 400, 700
+
+  background-image: url("../images/bg-pattern-top.svg"),
+    url("../images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat;
+  background-position: bottom 45vh left, top 50vh right;
+  background-size: contain;
+  background-attachment: fixed;
